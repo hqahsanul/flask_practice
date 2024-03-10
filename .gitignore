@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+
+# Environment
+env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Logs
+*.log
+
+# Configuration files
+instance/
+
+# Dependencies
+lib/
+lib64/
+
+# Temporary files
+*.swp
+
+# Local development configuration
+config.py
